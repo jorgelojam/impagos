@@ -13,3 +13,5 @@ Para ejecutar el contenedor creado ejecute lo siguiente:
 ```bash
 docker run -p 8888:8888 jorgelojam/impagos start.sh jupyter lab
 ```
+
+Posterior al arranque en la terminal va a salir un mensaje con la url que se tiene que abrir en el navegador, dentro del navegador ingresar al directorio src y abrir el notebook prediccion.ipynb
