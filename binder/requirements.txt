@@ -1,0 +1,11 @@
+wget
+numpy
+pandas
+xlrd
+matplotlib
+sklearn
+tensorflow
+keras
+patsy
+xgboost
+pyclustering
